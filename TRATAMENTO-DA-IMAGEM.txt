@@ -1,6 +1,0 @@
-Ferramenta: ImageGen integrado. Uma única edição, para economizar créditos.
-Entrada: assets/projetos/cozinha-original.jpg
-Saída: assets/projetos/cozinha-destaque.png
-
-Prompt:
-Use case: lighting-weather. Edit target: supplied real photograph of a kitchen built by Pontual Planejados. Improve only photographic technical quality: mild denoising, subtle detail clarity, balanced natural exposure and neutral white balance. Keep EXACT same kitchen, same cabinets, handles, open wood shelf, wall, intercom, sockets, countertop, floor, geometry, perspective, camera angle, composition and materials. Do not add, remove or redesign anything. Preserve true color and the original square crop. Photorealistic faithful restoration suitable for an honest furniture portfolio, no text or watermark. Output one enhanced square image.

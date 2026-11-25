@@ -1,0 +1,11 @@
+Ferramenta: ImageGen integrado. Uma única edição, para economizar créditos.
+Entrada: assets/projetos/cozinha-original.jpg
+Saída: assets/projetos/cozinha-destaque.png
+
+Prompt:
+Use case: lighting-weather. Edit target: supplied real photograph of a kitchen built by Pontual Planejados. Improve only photographic technical quality: mild denoising, subtle detail clarity, balanced natural exposure and neutral white balance. Keep EXACT same kitchen, same cabinets, handles, open wood shelf, wall, intercom, sockets, countertop, floor, geometry, perspective, camera angle, composition and materials. Do not add, remove or redesign anything. Preserve true color and the original square crop. Photorealistic faithful restoration suitable for an honest furniture portfolio, no text or watermark. Output one enhanced square image.
+
+
+Atualização: cinco edições adicionais com ImageGen integrado (dormitorio, sala, banheiro, escritorio, closet), uma por foto. Originais em assets/projetos/originais. Versões finais em assets/projetos/<nome>.jpg, com dimensões atualizadas no HTML. A cozinha utiliza o tratamento já existente.
+Prompt aplicado individualmente às cinco fotos:
+Edit target: this single original photograph of a real furniture project by Pontual. Technical photo restoration only: increase resolution and improve natural clarity, reduce compression noise and subtly balance exposure and white balance. Preserve the original portrait 3:4 framing and exact camera perspective. Strictly preserve every cabinet, panel, handle, shelf, furniture joint, light fixture, mirror reflection, appliance, floor, wall, accessory, rug and material texture in its original position and true color. Do not redesign, add, remove or move anything. No staged items, replacement furnishings, text, borders or watermark. Faithful photographic enhancement, restrained sharpening without halos, no stylization. It must still be the very same documented room.
